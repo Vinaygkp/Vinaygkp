@@ -1,49 +1,150 @@
-<h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
-<p align="center">
-  <b>Full-Stack Developer & AI Enthusiast</b> | Electronics & Communication Engineering
+
+<!-- ==================== HERO SECTION ==================== -->
+
+<div align="center">
+
+# Hi 👋, I'm Vinay Kumar
+
+### Full-Stack Developer | AI Enthusiast | ECE Student
+
+Building useful web applications and exploring the intersection of software, AI, and electronics.
+
+<p>
+  <a href="https://www.linkedin.com/in/vinay-kumar-5024aa263/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Vinaygkp">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinay-kumar-5024aa263/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://github.com/Vinaygkp](https://github.com/Vinaygkp)"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+---
+
+<!-- ==================== ABOUT ME ==================== -->
+
+## 🚀 About Me
+
+- 🎓 Pursuing **B.Tech in Electronics & Communication Engineering** at ABES Engineering College.
+- 💻 Focused on **Full-Stack Development with the MERN stack**.
+- 🤖 Exploring **AI-powered applications, automation, and intelligent solutions**.
+- 🧠 Practicing **Data Structures & Algorithms in Java**.
+- ⚡ Interested in **VLSI Design, FPGA Development, and Embedded Systems**.
+- 🌱 Continuously learning by building projects and solving real-world problems.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" alt="Frontend technologies"/>
+</p>
+
+### ⚙️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,fastapi,mysql" alt="Backend technologies"/>
+</p>
+
+### 🧠 Programming & Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,arduino" alt="Programming and hardware"/>
+  <img src="https://img.shields.io/badge/VLSI-Cadence-6A5ACD?style=for-the-badge" alt="VLSI Design"/>
+  <img src="https://img.shields.io/badge/FPGA-Vivado-CC0000?style=for-the-badge" alt="FPGA Design"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" alt="Developer tools"/>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Working on **Full-Stack Web Applications & AI-driven Solutions**
-- 🛠️ Tech Stack: **React, TypeScript, Node.js, Express, Python, FastAPI**
-- ⚡ Intersted in: **Machine Learning, RAG Workflows & Embedded Systems**
+## 💡 Featured Projects
 
----
+<!-- Replace these example links with your actual project repositories. -->
 
-### 🛠️ Tech Stack & Tools
-
-#### **Frontend & UI**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-#### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏥 Health ID – Emergency Medical ID</h3>
+      <p>A QR-based concept designed to help first responders access essential medical information quickly.</p>
+      <p><b>Focus:</b> Healthcare Technology · QR Codes · Web Development</p>
+    </td>
+    <td width="50%">
+      <h3>🎬 MovieMania</h3>
+      <p>A responsive movie discovery application featuring search filters, sorting, watchlists, and pagination.</p>
+      <p><b>Focus:</b> JavaScript · Responsive UI · Local Storage</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📚 Padhlo – Study App</h3>
+      <p>An Android learning app concept for organizing study notes, PDFs, exam schedules, and resources.</p>
+      <p><b>Focus:</b> Android · Backend · Database</p>
+    </td>
+    <td width="50%">
+      <h3>🔌 Electronics Projects</h3>
+      <p>Hands-on engineering projects exploring Arduino, electronic circuits, and embedded systems.</p>
+      <p><b>Focus:</b> Arduino · C++ · Hardware</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinaygkp&show_icons=true&theme=dark&hide_border=true" alt="Vinay's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaygkp&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://github.com/Vinaygkp?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+  </a>
 </p>
 
 ---
 
-### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vinaygkp/Vinaygkp/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinaygkp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaygkp&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Vinaygkp&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vinaygkp/Vinaygkp/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening problem-solving skills with Java and DSA.
+- Building scalable full-stack applications.
+- Exploring AI integration and practical automation.
+- Learning digital design concepts through VLSI and FPGA projects.
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect and Build Something Great!
+
+*Build • Learn • Innovate • Repeat*
+
+<img src="https://komarev.com/ghpvc/?username=Vinaygkp&style=flat-square&color=0e75b6&label=Profile+Views" alt="Profile views"/>
+
+</div>
