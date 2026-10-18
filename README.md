@@ -1,5 +1,5 @@
 
-<!-- ==================== HERO SECTION ==================== -->
+<!-- ==================== VINAY KUMAR | GITHUB PROFILE ==================== -->
 
 <div align="center">
 
@@ -7,14 +7,14 @@
 
 ### Full-Stack Developer | AI Enthusiast | ECE Student
 
-Building useful web applications and exploring the intersection of software, AI, and electronics.
+Building practical web applications at the intersection of software, AI, and electronics.
 
 <p>
   <a href="https://www.linkedin.com/in/vinay-kumar-5024aa263/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Vinaygkp">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -22,85 +22,81 @@ Building useful web applications and exploring the intersection of software, AI,
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
-
 ## 🚀 About Me
 
-- 🎓 Pursuing **B.Tech in Electronics & Communication Engineering** at ABES Engineering College.
-- 💻 Focused on **Full-Stack Development with the MERN stack**.
-- 🤖 Exploring **AI-powered applications, automation, and intelligent solutions**.
+- 🎓 B.Tech student in **Electronics & Communication Engineering** at ABES Engineering College.
+- 💻 Building full-stack web applications using the **MERN stack**.
+- 🤖 Exploring AI-powered applications and intelligent automation.
 - 🧠 Practicing **Data Structures & Algorithms in Java**.
-- ⚡ Interested in **VLSI Design, FPGA Development, and Embedded Systems**.
-- 🌱 Continuously learning by building projects and solving real-world problems.
+- ⚡ Exploring **VLSI Design, FPGA Development, and Embedded Systems**.
+- 🌱 Learning by building projects and solving practical problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend Development
-
+### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" alt="Frontend technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS and Vite"/>
 </p>
 
-### ⚙️ Backend & Databases
-
+### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,fastapi,mysql" alt="Backend technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,fastapi,mysql" alt="Node.js, Express, MongoDB, Python, FastAPI and MySQL"/>
 </p>
 
-### 🧠 Programming & Engineering
-
+### Programming & Electronics
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,arduino" alt="Programming and hardware"/>
-  <img src="https://img.shields.io/badge/VLSI-Cadence-6A5ACD?style=for-the-badge" alt="VLSI Design"/>
-  <img src="https://img.shields.io/badge/FPGA-Vivado-CC0000?style=for-the-badge" alt="FPGA Design"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,arduino" alt="Java, C++ and Arduino"/>
+  <img src="https://img.shields.io/badge/VLSI-Cadence-6A5ACD?style=flat-square" alt="Cadence VLSI"/>
+  <img src="https://img.shields.io/badge/FPGA-Vivado-CC0000?style=flat-square" alt="AMD Vivado FPGA"/>
 </p>
 
-### 🔧 Tools & Platforms
-
+### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" alt="Developer tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" alt="Git, GitHub, VS Code, Postman, Vercel and Docker"/>
 </p>
 
 ---
 
 ## 💡 Featured Projects
 
-<!-- Replace these example links with your actual project repositories. -->
-
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🏥 Health ID – Emergency Medical ID</h3>
-      <p>A QR-based concept designed to help first responders access essential medical information quickly.</p>
-      <p><b>Focus:</b> Healthcare Technology · QR Codes · Web Development</p>
+      A QR-based healthcare project concept for quick access to essential emergency medical information.
+      <br/><br/>
+      <b>Focus:</b> QR Codes · Healthcare Technology · Web Development
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🎬 MovieMania</h3>
-      <p>A responsive movie discovery application featuring search filters, sorting, watchlists, and pagination.</p>
-      <p><b>Focus:</b> JavaScript · Responsive UI · Local Storage</p>
+      A responsive movie discovery website with search, filtering, sorting, watchlists, and pagination.
+      <br/><br/>
+      <b>Focus:</b> JavaScript · Responsive UI · Local Storage
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>📚 Padhlo – Study App</h3>
-      <p>An Android learning app concept for organizing study notes, PDFs, exam schedules, and resources.</p>
-      <p><b>Focus:</b> Android · Backend · Database</p>
+      An Android study app project for organizing notes, PDFs, exam schedules, and learning resources.
+      <br/><br/>
+      <b>Focus:</b> Android · Backend · Database
     </td>
-    <td width="50%">
-      <h3>🔌 Electronics Projects</h3>
-      <p>Hands-on engineering projects exploring Arduino, electronic circuits, and embedded systems.</p>
-      <p><b>Focus:</b> Arduino · C++ · Hardware</p>
+    <td width="50%" valign="top">
+      <h3>🔌 Electronics & Embedded Projects</h3>
+      Hands-on projects involving Arduino, electronic circuits, and embedded systems.
+      <br/><br/>
+      <b>Focus:</b> Arduino · C++ · Hardware
     </td>
   </tr>
 </table>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Vinaygkp?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
   </a>
-</p>
+</div>
 
 ---
 
@@ -108,9 +104,11 @@ Building useful web applications and exploring the intersection of software, AI,
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinaygkp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaygkp&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<a href="https://github.com/Vinaygkp">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinaygkp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+</a><a href="https://github.com/Vinaygkp">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaygkp&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+</a>
 
 <br/>
 
@@ -124,7 +122,7 @@ Building useful web applications and exploring the intersection of software, AI,
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vinaygkp/Vinaygkp/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Vinaygkp/Vinaygkp/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
 
 </div>
 
@@ -133,8 +131,8 @@ Building useful web applications and exploring the intersection of software, AI,
 ## 🎯 Current Focus
 
 - Strengthening problem-solving skills with Java and DSA.
-- Building scalable full-stack applications.
-- Exploring AI integration and practical automation.
+- Developing practical full-stack applications.
+- Exploring AI integration and automation.
 - Learning digital design concepts through VLSI and FPGA projects.
 
 ---
@@ -143,8 +141,8 @@ Building useful web applications and exploring the intersection of software, AI,
 
 ### 💬 Let's Connect and Build Something Great!
 
-*Build • Learn • Innovate • Repeat*
+**Build · Learn · Innovate · Repeat**
 
-<img src="https://komarev.com/ghpvc/?username=Vinaygkp&style=flat-square&color=0e75b6&label=Profile+Views" alt="Profile views"/>
+<sub>Thanks for visiting my profile! ⭐</sub>
 
 </div>
