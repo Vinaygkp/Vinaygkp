@@ -1,23 +1,21 @@
 
-<!-- =============== VINAY KUMAR | GITHUB PROFILE =============== -->
-
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#00E5FF">Vinay</span> <span style="color:#C084FC">Kumar</span>
+# 👋 Hi, I'm Vinay Kumar
 
-### <span style="color:#FF6B6B">Full-Stack Developer</span> · <span style="color:#00D9A6">AI Enthusiast</span> · <span style="color:#FFD166">ECE Student</span>
+### 💻 Full-Stack Developer | 🤖 AI Enthusiast | ⚡ ECE Student
 
 Building practical web applications and exploring the intersection of software, AI, and electronics.
 
 <p align="center">
   <a href="https://portfolio-hazel-five-31.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit%20Website-FF6B6B?style=for-the-badge" alt="Portfolio"/>
-  </a>
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/vinay-kumar-5024aa263/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
   <a href="https://github.com/Vinaygkp">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
   </a>
 </p>
 
@@ -28,10 +26,10 @@ Building practical web applications and exploring the intersection of software, 
 ## 🚀 About Me
 
 - 🎓 Pursuing B.Tech in **Electronics & Communication Engineering** at ABES Engineering College.
-- 💻 Focused on **Full-Stack Development with the MERN stack**.
-- 🤖 Exploring AI-powered applications, automation, and intelligent solutions.
+- 💻 Building full-stack applications with the **MERN stack**.
+- 🤖 Exploring AI-powered applications and intelligent automation.
 - 🧠 Practicing **Data Structures & Algorithms in Java**.
-- ⚡ Interested in **VLSI Design, FPGA Development, and Embedded Systems**.
+- ⚡ Interested in **VLSI, FPGA Design, and Embedded Systems**.
 - 🌱 Learning by building projects and solving practical problems.
 
 ---
@@ -72,13 +70,13 @@ Building practical web applications and exploring the intersection of software, 
   <tr>
     <td width="50%" valign="top">
       <h3>🏥 Health ID — Emergency Medical ID</h3>
-      A QR-based healthcare project concept designed to help first responders access essential emergency medical information.
+      A QR-based healthcare project concept for quick access to essential emergency medical information.
       <br/><br/>
       <b>Focus:</b> Healthcare Technology · QR Codes · Web Development
     </td>
     <td width="50%" valign="top">
       <h3>🎬 MovieMania</h3>
-      A responsive movie discovery website featuring search, filters, sorting, watchlists, and pagination.
+      A responsive movie discovery website with search, filters, sorting, watchlists, and pagination.
       <br/><br/>
       <b>Focus:</b> JavaScript · Responsive UI · Local Storage
     </td>
@@ -86,7 +84,7 @@ Building practical web applications and exploring the intersection of software, 
   <tr>
     <td width="50%" valign="top">
       <h3>📚 Padhlo — Study App</h3>
-      An Android learning app project for organizing study notes, PDFs, exam schedules, and learning resources.
+      An Android study app project for organizing notes, PDFs, exam schedules, and learning resources.
       <br/><br/>
       <b>Focus:</b> Android · Backend · Database
     </td>
@@ -102,7 +100,7 @@ Building practical web applications and exploring the intersection of software, 
 <div align="center">
 
 <a href="https://github.com/Vinaygkp?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-00D9A6?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
+  <img src="https://img.shields.io/badge/ALL%20PROJECTS-00D9A6?style=for-the-badge&logo=github&logoColor=black" alt="All projects"/>
 </a>
 
 </div>
@@ -113,11 +111,8 @@ Building practical web applications and exploring the intersection of software, 
 
 <div align="center">
 
-<a href="https://github.com/Vinaygkp">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinaygkp&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-</a><a href="https://github.com/Vinaygkp">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaygkp&layout=compact&theme=radical&hide_border=true" alt="Most used languages"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinaygkp&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaygkp&layout=compact&theme=radical&hide_border=true" alt="Most used languages"/>
 
 <br/>
 
@@ -141,14 +136,16 @@ Building practical web applications and exploring the intersection of software, 
 
 - 🧠 Strengthening problem-solving skills with Java and DSA.
 - 💻 Building practical full-stack applications.
-- 🤖 Exploring AI integration and intelligent automation.
-- ⚡ Learning digital design concepts through VLSI and FPGA projects.
+- 🤖 Exploring AI integration and automation.
+- ⚡ Learning digital design through VLSI and FPGA projects.
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect and Build Something Great!
+### 🤝 Let's Connect
+
+**Build · Learn · Innovate · Repeat**
 
 <p>
   <a href="https://portfolio-hazel-five-31.vercel.app/">
@@ -161,8 +158,6 @@ Building practical web applications and exploring the intersection of software, 
     <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=black" alt="GitHub"/>
   </a>
 </p>
-
-**Build · Learn · Innovate · Repeat**
 
 <sub>Thanks for visiting my profile! ⭐</sub>
 
